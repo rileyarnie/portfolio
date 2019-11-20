@@ -62,3 +62,8 @@ header,
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002f4b', endColorstr='#00000000', GradientType=0);
     /* IE6-9 */
 }
+
+.nav-link{
+    font-family: 'Graduate', cursive;
+
+}
